@@ -53,6 +53,10 @@ p {
     margin: 0.25%;
     width: 40%;
 }
+#art-photos img {
+    aspect-ratio: 1/1;
+    background-color:white;
+}
 .photos, #anaphoto {
     text-align: center;
 }
