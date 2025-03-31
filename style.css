@@ -16,6 +16,9 @@ main {
 #art {
     background-color: rgb(120,240,150);
 }
+#science {
+    background-color: rgb(120, 212, 240);
+}
 nav {
     width: 100%;
     text-align:center;
