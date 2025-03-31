@@ -39,15 +39,6 @@ p {
     width:50%; 
     line-height: 30px;
 }
-.clearfix {
-    clear: both;
-}
-.clearfix:after {
-    content: ".";
-    height: 0;
-    clear: both;
-    visibility: hidden;
-}
 .photos img {
     display: inline-block;
     margin: 0.25%;
